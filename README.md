@@ -1,4 +1,4 @@
-Hi there, I'm Abhinav Singh! 👋
+**Hi there, I'm Abhinav Singh!** 👋
 
 👨‍💻 About Me
 
@@ -8,13 +8,7 @@ I am an aspiring Data Scientist with a strong passion for leveraging data to sol
 
 Programming Languages:
 
-Python
-
-SQL
-
-R
-
-Data Science & Machine Learning:
+Python | SQL | Data Science & Machine Learning:
 
 Machine Learning Algorithms (Regression, Classification, Clustering, etc.)
 
@@ -31,57 +25,6 @@ Data Visualization:
 Power BI (eCommerce and Car Sales Analysis Projects)
 
 Matplotlib, Seaborn
-
-Tools & Technologies:
-
-SQLite3
-
-Excel
-
-Tkinter (Python GUI Development)
-
-Git/GitHub
-
-📂 Projects
-
-1. Movie Recommendation System
-
-Built a recommendation system using cosine similarity to suggest movies based on user preferences.
-
-Utilized data from Kaggle and implemented the system using Python.
-
-Imported and processed data through Excel for seamless integration.
-
-2. Power BI Dashboards
-
-Ecommerce Analysis: Created a comprehensive dashboard to analyze sales performance, trends, and customer behavior.
-
-Car Sales Analysis: Designed an interactive report with visuals such as card visuals, bar charts, pie charts, and line charts. Incorporated navigation buttons for an intuitive user experience.
-
-3. Restaurant Food Billing System
-
-Developed an interactive GUI-based application using Python's Tkinter library.
-
-Incorporated an SQLite3 database to manage menu items and billing data efficiently.
-
-🎓 Certifications
-
-Machine Learning and Data Science (GeeksforGeeks)
-
-Skills Acquired:
-
-Understanding of Machine Learning Algorithms
-
-Data Preprocessing and Feature Engineering
-
-Deep Learning
-
-Data Visualization
-
-Big Data Technologies
-
-Deployment of Machine Learning Models
-
 🌐 Connect With Me
 
 LinkedIn: Abhinav Singh
