@@ -18,9 +18,9 @@ Matplotlib, Seaborn
 
 <h2>🌐 Connect With Me </h2>
 
-**LinkedIn**: Abhinav Singh
+**LinkedIn**: https://www.linkedin.com/in/abhinavxsingh28/
 
-**Email**: abhinav.singh@example.com
+**Email**: abhinavxsingh28@gmail.com
 
 <h2> 📈 GitHub Stats </h2>
 
