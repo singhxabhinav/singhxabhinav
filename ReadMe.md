@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Abhinav Singh! 👋<br>👨‍💻 About Me<br><br>I am an aspiring Data Scientist with a strong passion for leveraging data to solve complex problems and derive meaningful insights. With hands-on experience in data analysis, machine learning, and software development, I am constantly exploring new ways to expand my knowledge and contribute to impactful projects. Currently seeking entry-level opportunities in the Data Science field.<br><br>
+<br>Hi there, I'm Abhinav Singh! 👋<br><br>I am an aspiring Data Scientist with a strong passion for leveraging data to solve complex problems and derive meaningful insights. With hands-on experience in data analysis, machine learning, and software development, I am constantly exploring new ways to expand my knowledge and contribute to impactful projects. Currently seeking entry-level opportunities in the Data Science field.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soberxabhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhinavxsingh28 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavxsingh28@gmail.com) 
